@@ -1,0 +1,12 @@
+{
+  "name": "opp_injection",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "latest",
+    "mongoose": "^4.11.11",
+    "node-fetch": "^1.7.3",
+    "request": "^2.81.0"
+  }
+}
